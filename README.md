@@ -23,7 +23,7 @@ Follow these steps to set up project locally
 1. **Clone the Repository**  
    Open your terminal and run the following command:  
    ```bash
-   git clone https://github.com/crisbnp/mental-health-tracker.git
+   git clone https://github.com/virat7832/Mental-Health-Tracker
    cd mental-health-tracker
 
 2. Install Dependencies
