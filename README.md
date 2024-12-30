@@ -16,7 +16,9 @@ A comprehensive application designed to help users monitor and improve their men
 
 ## Installation
 
-Follow these steps to set up the project locally:
+
+Follow these steps to set up project locally 
+
 
 1. **Clone the Repository**  
    Open your terminal and run the following command:  
